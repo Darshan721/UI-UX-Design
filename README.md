@@ -22,9 +22,7 @@ https://user-images.githubusercontent.com/110523003/183235199-a1182200-cdf7-4eda
 https://user-images.githubusercontent.com/110523003/183235193-4c55a849-bcf6-4219-8d6e-43b59a5e907c.mp4
 
 6.
-
 [desktop_landing_page.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274422/desktop_landing_page.pdf)
 
 7.
-
 [desktop_mockup_wireframe.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274424/desktop_mockup_wireframe.pdf)
