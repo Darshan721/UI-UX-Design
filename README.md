@@ -17,16 +17,21 @@ https://user-images.githubusercontent.com/110523003/183235195-710bdbb2-1489-4f7d
 
 https://user-images.githubusercontent.com/110523003/183235199-a1182200-cdf7-4eda-882b-46879329399b.mp4
 
-5.Desktop Landing Page:
+5.Movie Ticket:
+
+https://user-images.githubusercontent.com/110523003/184108352-e771301d-09af-4c61-82c1-098c97d1a5fa.mp4
+
+
+6.Desktop Landing Page:
 
 https://user-images.githubusercontent.com/110523003/183235193-4c55a849-bcf6-4219-8d6e-43b59a5e907c.mp4
 
 
-6.
+7.
 [desktop_landing_page.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274422/desktop_landing_page.pdf)
 
-7.
+8.
 [desktop_mockup_wireframe.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274424/desktop_mockup_wireframe.pdf)
 
-8.
+9.
 [Cafe_Coffee_Day_SingleWebPage.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274434/Cafe_Coffee_Day_SingleWebPage.pdf)
