@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/110523003/184108352-e771301d-09af-4c61
 6.Electric Bike Landing Page 
 [Electrobike.pdf](https://github.com/Darshan721/UI-UX-Design/files/13771151/Electrobike.pdf)
 
-7.Serch Doctor Landing Page
+7.Search Doctor Landing Page
 [SearchDoctor.pdf](https://github.com/Darshan721/UI-UX-Design/files/13771150/SearchDoctor.pdf)
 
 8.Fragrance Landing Page
