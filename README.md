@@ -21,7 +21,16 @@ https://user-images.githubusercontent.com/110523003/183235199-a1182200-cdf7-4eda
 
 https://user-images.githubusercontent.com/110523003/184108352-e771301d-09af-4c61-82c1-098c97d1a5fa.mp4
 
-6.
+6.Electric Bike Landing Page 
+[Electrobike.pdf](https://github.com/Darshan721/UI-UX-Design/files/13771151/Electrobike.pdf)
+
+7.Serch Doctor Landing Page
+[SearchDoctor.pdf](https://github.com/Darshan721/UI-UX-Design/files/13771150/SearchDoctor.pdf)
+
+8.Fragrance Landing Page
+[Swithfragrane.pdf](https://github.com/Darshan721/UI-UX-Design/files/13771149/Swithfragrane.pdf)
+
+9.
 [desktop_landing_page.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274422/desktop_landing_page.pdf)
 
 7.
@@ -29,3 +38,5 @@ https://user-images.githubusercontent.com/110523003/184108352-e771301d-09af-4c61
 
 8.
 [Cafe_Coffee_Day_SingleWebPage.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274434/Cafe_Coffee_Day_SingleWebPage.pdf)
+
+
