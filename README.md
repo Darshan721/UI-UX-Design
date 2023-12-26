@@ -30,13 +30,13 @@ https://user-images.githubusercontent.com/110523003/184108352-e771301d-09af-4c61
 8.Fragrance Landing Page
 [Swithfragrane.pdf](https://github.com/Darshan721/UI-UX-Design/files/13771149/Swithfragrane.pdf)
 
-9.
+9.Desktop Herosection
 [desktop_landing_page.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274422/desktop_landing_page.pdf)
 
-7.
+7.Desktop Wireframe & Mockup Dashboard Admin
 [desktop_mockup_wireframe.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274424/desktop_mockup_wireframe.pdf)
 
-8.
+8.collage Project for Cafe
 [Cafe_Coffee_Day_SingleWebPage.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274434/Cafe_Coffee_Day_SingleWebPage.pdf)
 
 
