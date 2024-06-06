@@ -1,4 +1,4 @@
-[whine-project.pdf](https://github.com/user-attachments/files/15686333/whine-project.pdf)[Pizza-LandingPage.pdf](https://github.com/user-attachments/files/15686274/Pizza-LandingPage.pdf)[interior-indexpage.pdf](https://github.com/user-attachments/files/15686276/interior-indexpage.pdf)# UI-UX-Design
+# UI-UX-Designs
 
 1.Donor And Needier Project:
 
@@ -21,31 +21,31 @@ https://user-images.githubusercontent.com/110523003/183235199-a1182200-cdf7-4eda
 
 https://user-images.githubusercontent.com/110523003/184108352-e771301d-09af-4c61-82c1-098c97d1a5fa.mp4
 
-6.Whine Landing Page
+6. Whine Landing Page
 [whine-project.pdf](https://github.com/user-attachments/files/15686273/whine-project.pdf)
 
-7.Search Doctor Landing Page
+7. Search Doctor Landing Page
 [dr- indexpage.pdf](https://github.com/user-attachments/files/15686246/dr-.indexpage.pdf)
 
-8.Interior Landing Page
+8. Interior Landing Page
 [interior-indexpage.pdf](https://github.com/user-attachments/files/15686409/interior-indexpage.pdf)
 
-9.Pizza Landing Page
+9. Pizza Landing Page
 [Pizza-LandingPage.pdf](https://github.com/user-attachments/files/15686447/Pizza-LandingPage.pdf)
 
-10.Electric Bike Landing Page 
+10. Electric Bike Landing Page 
 [Electrobike.pdf](https://github.com/Darshan721/UI-UX-Design/files/13771151/Electrobike.pdf)
 
-11.Fragrance Landing Page
+11. Fragrance Landing Page
 [Swithfragrane.pdf](https://github.com/Darshan721/UI-UX-Design/files/13771149/Swithfragrane.pdf)
 
-12.Desktop Herosection
+12. Desktop Herosection
 [desktop_landing_page.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274422/desktop_landing_page.pdf)
 
-13.Desktop Wireframe & Mockup Dashboard Admin
+13. Desktop Wireframe & Mockup Dashboard Admin
 [desktop_mockup_wireframe.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274424/desktop_mockup_wireframe.pdf)
 
-14.collage Project for Cafe
+14. collage Project for Cafe
 [Cafe_Coffee_Day_SingleWebPage.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274434/Cafe_Coffee_Day_SingleWebPage.pdf)
 
 
