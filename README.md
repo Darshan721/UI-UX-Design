@@ -1,9 +1,8 @@
 # UI-UX-Designs
 
-
 1. GymBased Website Landing Page:
-    
-![gym4less](https://github.com/Darshan721/UI-UX-Design/assets/110523003/cf4e596e-fb93-4872-9dd2-02e155c68e1c)
+
+![gym4less](https://github.com/Darshan721/UI-UX-Design/assets/110523003/8179986a-f315-4679-9309-d329186bbf50)
 
 2. Search Doctor Landing Page
    
