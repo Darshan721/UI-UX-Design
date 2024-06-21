@@ -2,7 +2,7 @@
 
 1. GymBased Website Landing Page:
 
-![gym4less](https://github.com/Darshan721/UI-UX-Design/assets/110523003/82bdc65f-88c0-44e5-b20a-b330d20da671)
+![gym4less](https://github.com/Darshan721/UI-UX-Design/assets/110523003/151e91c9-12c7-4c5f-a9f2-d30b11096a82)
 
 
 2. Racing Car Landing Page:
