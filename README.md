@@ -6,7 +6,7 @@
 
 2. Search Doctor Landing Page:
 
-![dr-kapil - indexpage-fin](https://github.com/Darshan721/UI-UX-Design/assets/110523003/d90a4d05-0d0b-43da-a713-e0c3f3fedde2)
+![dr-kapil - indexpage-fin](https://github.com/Darshan721/UI-UX-Design/assets/110523003/99155c81-b1c8-42e1-85a0-5a6e3e936dd3)
 
 3.Donor And Needier Project:
 
