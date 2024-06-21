@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/110523003/184108352-e771301d-09af-4c61
 [whine-project.pdf](https://github.com/user-attachments/files/15686273/whine-project.pdf)
 
 7. Search Doctor Landing Page
-[dr- indexpage.pdf](https://github.com/user-attachments/files/15686246/dr-.indexpage.pdf)
+![dr-kapil - indexpage-fin](https://github.com/Darshan721/UI-UX-Design/assets/110523003/d90a4d05-0d0b-43da-a713-e0c3f3fedde2)
 
 8. Interior Landing Page
 [interior-indexpage.pdf](https://github.com/user-attachments/files/15686409/interior-indexpage.pdf)
