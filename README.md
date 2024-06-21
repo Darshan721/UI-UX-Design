@@ -2,10 +2,10 @@
 
 1. GymBased Website Landing Page:
 
-![gym4less](https://github.com/Darshan721/UI-UX-Design/assets/110523003/8179986a-f315-4679-9309-d329186bbf50)
+![gym4less](https://github.com/Darshan721/UI-UX-Design/assets/110523003/82bdc65f-88c0-44e5-b20a-b330d20da671)
 
-2. Search Doctor Landing Page
-   
+2. Search Doctor Landing Page:
+
 ![dr-kapil - indexpage-fin](https://github.com/Darshan721/UI-UX-Design/assets/110523003/d90a4d05-0d0b-43da-a713-e0c3f3fedde2)
 
 3.Donor And Needier Project:
@@ -19,7 +19,6 @@ https://user-images.githubusercontent.com/110523003/183235187-0257c456-ba40-463a
 5.Prototype_Animation:
 
 https://user-images.githubusercontent.com/110523003/183235195-710bdbb2-1489-4f7d-b0f7-d82819a59e54.mp4
-
 
 6.Login And Register:
 
