@@ -45,7 +45,12 @@ https://user-images.githubusercontent.com/110523003/184108352-e771301d-09af-4c61
 13. Desktop Wireframe & Mockup Dashboard Admin
 [desktop_mockup_wireframe.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274424/desktop_mockup_wireframe.pdf)
 
-14. collage Project for Cafe
+14. GymBased Website Landing Page:
+![gym4less](https://github.com/Darshan721/UI-UX-Design/assets/110523003/cf4e596e-fb93-4872-9dd2-02e155c68e1c)
+
+
+
+15. collage Project for Cafe
 [Cafe_Coffee_Day_SingleWebPage.pdf](https://github.com/Darshan721/UI-UX-Design/files/9274434/Cafe_Coffee_Day_SingleWebPage.pdf)
 
 
