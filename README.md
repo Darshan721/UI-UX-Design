@@ -3,7 +3,8 @@
 
 1. Sound Healing Project:
 
-![Indext - vertical -tab-program section](https://github.com/user-attachments/assets/36d6e518-fe55-4ca3-95d5-5019ae7ad91a)
+![Indext - vertical -tab-program section](https://github.com/user-attachments/assets/5016e80a-7996-487d-aec7-bbfcde65c186)
+
 
 2. GymBased Website Landing Page:
 
